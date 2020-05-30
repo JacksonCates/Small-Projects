@@ -18,5 +18,6 @@ And if you play less optimally, the AI usually finds a two-pronged attack
 #### Techniques/Methods Used:
  * Object oriented programming
  * Mini-max algorithm
+ * Recursion
  * Events
  * Basic drawing
